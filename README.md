@@ -27,7 +27,7 @@
 <h1> Desktop</h1>
 <div align="center" id="top"> 
   
-  <img src="./.github/preview_Desktop.png" alt="Good Travel" width="50%" />
+  <img src="./.github/preview_Desktop.png" alt="Good Travel" width="100%" />
    
   &#xa0;
 
