@@ -1,58 +1,48 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Good Travel" />
-
-  &#xa0;
-
-  <!-- <a href="https://goodtravel.netlify.com">Demo</a> -->
-</div>
-
-<h1 align="center">Good Travel</h1>
-
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/MarcosGuilherm/good-travel?color=56BEB8">
-
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/MarcosGuilherm/good-travel?color=56BEB8">
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/MarcosGuilherm/good-travel?color=56BEB8">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/MarcosGuilherm/good-travel?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/MarcosGuilherm/good-travel?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/MarcosGuilherm/good-travel?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/MarcosGuilherm/good-travel?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
- <h4 align="center"> 
-	🚧  Good Travel 🚀 Em construção...  🚧
-</h4> 
-
-<hr> 
+<h1 align="center">
+  Rocket Travel
+</h1>
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/MarcosGuilherm" target="_blank">Autor</a>
+  <a href="#projeto">Projeto</a> &#xa0; | &#xa0;
+  <a href="https://github.com/GuiuRodrigues" target="_blank">Autor</a>
 </p>
 
-<br>
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/GuiuRodrigues/good-travel?label=html&message=MIT&color=4343e9&labelColor=e2792d">
 
+  <img src="https://img.shields.io/github/languages/count/GuiuRodrigues/good-travel?label=language&message=MIT&color=4343e9&labelColor=e2792d"  alt="Quantidade de linguagens utilizadas">
+
+  <img src="https://img.shields.io/github/stars/guiurodrigues/good-travel?label=stars&message=MIT&color=4343e9&labelColor=e2792d " alt="Stars">
+
+</p>
+
+<p align="center">
+  <img alt="logo" src=".github/logo-plane.svg" width="10%">
+</p>
+
+<h1> Desktop</h1>
+<div align="center" id="top"> 
+  
+  <img src="./.github/preview_Desktop.png" alt="Good Travel" width="50%" />
+   
+  &#xa0;
+
+</div>
+ <h1> Mobile</h1>
+<div align="center" id="top"> 
+ 
+  <img src="./.github/preview_Mobile.png" alt="Good Travel" width="50%" />
+</div>
+<hr> 
+
+<br>
 ## :dart: Sobre ##
 
-Este é um projeto simples, onde foi criado uma landing page para aprimorar os conhecimentos e CSS e HTML, com base no [vídeo](https://www.youtube.com/watch?v=zY3m_vEuho0&t=583s).
-
-## :sparkles: Funcionalidades ##
-
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+Este é um projeto simples, onde foi criado uma landing page para aprimorar os conhecimentos e CSS e HTML, com base na [live](https://www.youtube.com/watch?v=zY3m_vEuho0&t=583s).
 
 ## :rocket: Tecnologias ##
 
@@ -83,6 +73,17 @@ $ Open with liver server
 
 # O app vai inicializar em seu navegador padrão
 ```
+## 🚧 Projeto
+
+Live Preview: https://rocket-travel.vercel.app/
+
+Figma: https://www.figma.com/file/MOrKnXFQqWCz01Ei1KJnCO/Rocket-Travel
+
+## 🎨 Inspiração:
+
+[Dribbble](https://dribbble.com/shots/17407084-Travel-Web-Header-Landing-Page-design/attachments/12533821?mode=media)
+
+<br>
 
 Feito com :heart: por <a href="https://github.com/GuiuRodrigues" target="_blank">Marcos Guilherme</a>
 
