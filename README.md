@@ -40,6 +40,7 @@
 <hr> 
 
 <br>
+
 ## :dart: Sobre ##
 
 Este é um projeto simples, onde foi criado uma landing page para aprimorar os conhecimentos e CSS e HTML, com base na [live](https://www.youtube.com/watch?v=zY3m_vEuho0&t=583s).
