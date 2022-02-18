@@ -75,7 +75,7 @@ $ Open with liver server
 ```
 ## 🚧 Projeto
 
-Live Preview: https://rocket-travel.vercel.app/
+Live Preview: https://good-travel.vercel.app/
 
 Figma: https://www.figma.com/file/MOrKnXFQqWCz01Ei1KJnCO/Rocket-Travel
 

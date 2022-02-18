@@ -55,12 +55,12 @@ header ul li{
 
 header ul li a {
     color: var(--color-text);
-    transition: 0.5s;
+    transition: 0.7s;
 }
 
 header ul li a:hover{
     color: var(--color-highlight);
-    border-bottom: 2px solid var(--color-button);
+    text-decoration: underline wavy var(--color-button);
 }
 
 button{
